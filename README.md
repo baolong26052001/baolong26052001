@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I'm a student about to graduate from University Of Science (HCMUS), my major is Computer Science <br>
+🔭 I'm a bachelor graduate from University Of Science (HCMUS), my major is Computer Science <br>
 🔭 My English level is IELTS 6.0 <br>
 🔭 I have 9 months of experience in backend programming with the C# .NET, having worked on a real-world project at a software company
 
