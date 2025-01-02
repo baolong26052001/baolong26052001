@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I'm a bachelor graduate from University Of Science (HCMUS), my major is Computer Science <br>
+🔭 I'm a bachelor graduate from University of Science (HCMUS), my major is Information Technology <br>
 🔭 My English level is IELTS 6.0 <br>
 
 # 💻 Tech Stack:
